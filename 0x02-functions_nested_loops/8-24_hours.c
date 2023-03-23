@@ -3,7 +3,6 @@
 /**
  * jack_bauer- prints every minute of the daay
 */
-z
 void jack_bauer(void)
 {
 	int min, hr;
